@@ -1,4 +1,4 @@
-Experiment Pendulum
+Experiment Simple Vehicle Model
 
 ***This project is part of AVE3 pratical course for Modelling and Simulation.
 This experiment is to develope a simple vehicle model going up and down a slope in a purely longitudinal manner.
